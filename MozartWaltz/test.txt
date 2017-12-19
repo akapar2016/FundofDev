@@ -1,0 +1,9 @@
+Minuets: 982017-10-26 22:48:56.918 java[48124:7188899] kCFURLVolumeIsAutomountedKey missing for file://localhost/Volumes/nirmala%20archive/: The file “nirmala archive” couldn’t be opened.
+ 95 27 50 146 68 159 100 16 139 7 29 67 59 145 170
+Trio: 18 39 16 53 37 55 2 94 11 92 32 48 69 23 78 21
+Music size: 2627358
+
+Minuets: 982017-10-26 22:49:12.975 java[48125:7189179] kCFURLVolumeIsAutomountedKey missing for file://localhost/Volumes/nirmala%20archive/: The file “nirmala archive” couldn’t be opened.
+ 95 27 50 146 68 159 100 16 139 7 29 67 59 145 170
+Trio: 18 39 16 53 37 55 2 94 11 92 32 48 69 23 78 21
+Music size: 2627358
